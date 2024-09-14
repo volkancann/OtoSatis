@@ -1,0 +1,17 @@
+C:\Users\Win10\OtoSatis\OtoSatisServis\OtoSatisServis.Business\bin\Debug\net8.0\OtoSatisServis.Service.deps.json
+C:\Users\Win10\OtoSatis\OtoSatisServis\OtoSatisServis.Business\bin\Debug\net8.0\OtoSatisServis.Service.dll
+C:\Users\Win10\OtoSatis\OtoSatisServis\OtoSatisServis.Business\bin\Debug\net8.0\OtoSatisServis.Service.pdb
+C:\Users\Win10\OtoSatis\OtoSatisServis\OtoSatisServis.Business\obj\Debug\net8.0\OtoSatisServis.Service.csproj.AssemblyReference.cache
+C:\Users\Win10\OtoSatis\OtoSatisServis\OtoSatisServis.Business\obj\Debug\net8.0\OtoSatisServis.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Win10\OtoSatis\OtoSatisServis\OtoSatisServis.Business\obj\Debug\net8.0\OtoSatisServis.Service.AssemblyInfoInputs.cache
+C:\Users\Win10\OtoSatis\OtoSatisServis\OtoSatisServis.Business\obj\Debug\net8.0\OtoSatisServis.Service.AssemblyInfo.cs
+C:\Users\Win10\OtoSatis\OtoSatisServis\OtoSatisServis.Business\obj\Debug\net8.0\OtoSatisServis.Service.csproj.CoreCompileInputs.cache
+C:\Users\Win10\OtoSatis\OtoSatisServis\OtoSatisServis.Business\obj\Debug\net8.0\OtoSatisServis.Service.dll
+C:\Users\Win10\OtoSatis\OtoSatisServis\OtoSatisServis.Business\obj\Debug\net8.0\refint\OtoSatisServis.Service.dll
+C:\Users\Win10\OtoSatis\OtoSatisServis\OtoSatisServis.Business\obj\Debug\net8.0\OtoSatisServis.Service.pdb
+C:\Users\Win10\OtoSatis\OtoSatisServis\OtoSatisServis.Business\obj\Debug\net8.0\ref\OtoSatisServis.Service.dll
+C:\Users\Win10\OtoSatis\OtoSatisServis\OtoSatisServis.Business\bin\Debug\net8.0\OtoSatisServis.Data.dll
+C:\Users\Win10\OtoSatis\OtoSatisServis\OtoSatisServis.Business\bin\Debug\net8.0\OtoSatisServis.Entities.dll
+C:\Users\Win10\OtoSatis\OtoSatisServis\OtoSatisServis.Business\bin\Debug\net8.0\OtoSatisServis.Data.pdb
+C:\Users\Win10\OtoSatis\OtoSatisServis\OtoSatisServis.Business\bin\Debug\net8.0\OtoSatisServis.Entities.pdb
+C:\Users\Win10\OtoSatis\OtoSatisServis\OtoSatisServis.Business\obj\Debug\net8.0\OtoSatis.9B25E450.Up2Date
